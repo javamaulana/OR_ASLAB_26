@@ -1,4 +1,7 @@
-# Penugasan 1: Analisis Komunikasi Artemis II
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=TUGAS%201&fontSize=75&descAlignY=53&descAlign=50&fontAlignY=37&desc=Analisis%20Komunikasi%20Artemis%20II" alt="Header Tugas 1" />
+</p>
+
 
 ## Deskripsi
 Program ini dirancang untuk melakukan analisis data waktu sinyal aktif pada misi komunikasi NASA Artemis II. Program ini mengolah data menit-menit sinyal menjadi informasi sesi yang terstruktur.
